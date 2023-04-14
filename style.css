@@ -1,0 +1,24 @@
+body{
+    background-image: url('./assets/fondo-tech.jpg');
+    padding: 0;
+    margin: 0;
+}
+
+.avatar{
+    height: 250px;
+    width: auto;
+    border-radius: 50%;
+}
+
+.header{
+    text-align: center;
+   
+}
+
+.about-me{
+    opacity: 90%;
+}
+
+h2{
+    text-align: center;
+}
